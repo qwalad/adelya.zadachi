@@ -1,5 +1,2 @@
-a = 7.2
-b = 7.2
-c = 7.2
-d = (a + b ) * c
-print(d)
+NAMES = ['JACK' , 'JIMMY' , 'JACKSON' , 'JHON' , 'JACKSON' , 'JHON' , 'JIMMY' , 'JACKSON' , 'JHON' , 'JACK' , 'JIMMY' , 'JACK' , 'JACKSON' , 'JHON' , 'JACKSON' , 'JHON' , 'JACK' , 'JIMMY' , 'JACK' , 'JACKSON' , 'JHON',]
+print(NAMES.count('Jack'.upper()))

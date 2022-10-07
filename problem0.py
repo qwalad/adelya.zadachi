@@ -1,6 +1,4 @@
-a = 10
-b = 5
-if a > b:
-    print ("a + 2")
-else:
-    print ("b + 2")
+a = ['Adelya , Arman , Meerim , Samat , Emir']
+b =  ' '
+c = b.join(a)
+print(c)

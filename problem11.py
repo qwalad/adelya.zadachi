@@ -1,5 +1,2 @@
-a = 10
-b = 5
-if int(a and b > 0):
-    print("переменные положительные")
-
+a = ['adelya' , 598 , 5.2 , ['Batken'] , ('Manas') , True]
+print(a)
